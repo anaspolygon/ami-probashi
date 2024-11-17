@@ -1,0 +1,47 @@
+.recruit-slider .swiper-pagination-bullets .swiper-pagination-bullet {
+  background-color: #ffffff !important;
+}
+
+.recruit-slider .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 8px !important;
+  border-radius: 32px !important;
+}
+
+.recruit-item h2 {
+  font-size: 24px;
+  color: #ffffff;
+  font-family: var(--font-barlow);
+  line-height: 28.8px;
+  margin-bottom: 8px;
+}
+
+.recruit-item p,
+.recruit-item p a {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: var(--font-roboto);
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 16px;
+}
+
+.recruit-item p a {
+  color: #f6a723;
+  text-underline-offset: 4px;
+  text-decoration-line: underline;
+}
+
+@media only screen and (min-width: 768px) {
+  .recruit-item h2 {
+    font-size: 34px;
+    line-height: 40.8px;
+    margin-bottom: 12px;
+  }
+  .recruit-item p,
+  .recruit-item p a {
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 32px;
+  }
+}

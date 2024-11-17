@@ -1,0 +1,1198 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "pages": {
+    "home": "Home",
+    "aboutUs": "About us",
+    "infoTitle": "What we achieved so far"
+  },
+  "LocalRecrute": {
+    "title": "Local Recruiting Agencies",
+    "descriptionOne": "Ami Probashi offers a comprehensive, all-in-one platform for local recruiting agencies. Our portal empowers them to reach millions of aspiring migrants with job postings, select verified candidates from our extensive database, and streamline government processes and compliance.",
+    "descriptionTwo": "Over 2,000 recruiting agencies rely on our platform to efficiently find candidates and streamline processes, accelerating recruitment and providing migrants with direct access to legitimate job opportunities.",
+    "steps": {
+      "stepOne": {
+        "title": "Talent pool of 5 million +",
+        "descriptionOne": "Discover top candidates from our extensive talent pool and BMET database using advanced filtering options to find the perfect match. Effortlessly view detailed profiles to assess qualifications and suitability. Our intuitive search interface makes it easy to pinpoint the right talent quickly. Save and manage candidate profiles for future reference. Enhance your recruitment process with precision and ease.",
+        "descriptionTwo": ""
+      },
+      "stepTwo": {
+        "title": "Post & Manage Jobs",
+        "descriptionOne": "Seamlessly post job openings on the Ami Probashi platform and reach a broad audience. Receive applications directly through the portal and manage them with ease. Utilize powerful job management tools to shortlist, select, and take action on candidates.",
+        "descriptionTwo": "Keep track of both posted and drafted jobs effortlessly. Streamline your hiring process and manage job postings efficiently.\n"
+      },
+      "stepThree": {
+        "title": "Request verified candidates",
+        "descriptionOne": "Request your specific and complex employment needs, and Ami Probashi will deliver carefully selected candidates who perfectly match your criteria.\n",
+        "descriptionTwo": "Our team thoroughly verifies each candidate, ensuring they are eager and qualified for overseas work\n"
+      },
+      "stepFour": {
+        "title": "Real-time chatting and video interviews",
+        "descriptionOne": "Enjoy seamless and instant communication with candidates and other stakeholders. Utilize the portal’s messaging system to coordinate and interact in real-time.",
+        "descriptionTwo": "Stay connected and informed with the recruitment process through efficient communication."
+      },
+      "stepFive": {
+        "title": "Easy government processing",
+        "descriptionOne": "Gather candidate information and seamlessly apply for essential government processes like BMET clearance, BMET registration, and PDO booking. Benefit from automated passport searches with instant data entry, and effortlessly track applications at every stage.\n",
+        "descriptionTwo": "Instantly receive QR-code cards for a streamlined and efficient experience\n"
+      },
+      "stepSix": {
+        "title": "ERP and recruitment performance analytics",
+        "descriptionOne": "Unlock the full potential of your recruitment strategy with ERP-integrated performance analytics. By combining the power of Enterprise Resource Planning systems with advanced recruitment analytics, you gain real-time insights into every aspect of your hiring process. \n",
+        "descriptionTwo": "Optimize your recruitment campaigns, streamline operations, and make data-driven decisions that enhance both efficiency and effectiveness. \n"
+      },
+      "stepSeven": {
+        "title": "TalentMatch Engine",
+        "descriptionOne": "Our advanced talent match algorithm is designed to revolutionize your hiring process. By meticulously analyzing candidate profiles against your specific job requirements, we deliver a shortlist of perfectly matched candidates. Our cutting-edge technology saves you time, reduces recruitment costs, and ensures you find the ideal talent to drive your business forward\n",
+        "descriptionTwo": ""
+      }
+    }
+  },
+  "ForeignEmployers": {
+    "title": "Foreign Employers",
+    "descriptionOne": "Foreign employers can now bypass middlemen and recruit directly from Bangladesh through the Ami Probashi portal. Our extensive database allows them to search for and select qualified candidates who meet their specific job requirements. Video interviews enable a convenient assessment of hireability.",
+    "descriptionTwo": "Foreign employers can also streamline government compliance by applying directly online. To further assist the recruitment process, they can connect with authentic local recruiting agencies on our platform. At each step they can track and monitor progress.",
+    "steps": {
+      "stepOne": {
+        "title": "Talent pool of 5 million +",
+        "descriptionOne": "Discover top candidates from our extensive talent pool and BMET database using advanced filtering options to find the perfect match. Effortlessly view detailed profiles to assess qualifications and suitability. ",
+        "descriptionTwo": "Our intuitive search interface makes it easy to pinpoint the right talent quickly. Save and manage candidate profiles for future reference. Enhance your recruitment process with precision and ease."
+      },
+      "stepTwo": {
+        "title": "Streamlined Government compliance",
+        "descriptionOne": "Complete government applications and compliance required to recruit from Bangladesh online. Streamline the process by applying directly to government agencies and receiving swift approval. We’ll guide you every step of the way.\n",
+        "descriptionTwo": "Seamlessly track all applications and receive digital authentication of attestation and other documents. Say goodbye to paperwork and physical queues.\n"
+      },
+      "stepThree": {
+        "title": "One-to-one video interviews",
+        "descriptionOne": "Streamline your hiring process with our seamless video interviewing platform. Schedule convenient interview times, assess multiple candidates in a single session, and source talent directly. \n",
+        "descriptionTwo": "Avoid the complexities of third-party recruitment by personally evaluating candidates and finding the perfect fit for your recruitment needs \n"
+      },
+      "stepFour": {
+        "title": "Broadcast Jobs to millions",
+        "descriptionOne": "Seamlessly post job openings on the Ami Probashi platform and reach millions of qualified workers. Receive and select applicants directly through the portal.\n",
+        "descriptionTwo": "Streamline your hiring process and manage job postings efficiently.\n"
+      },
+      "stepFive": {
+        "title": "Connect with local recruiting agencies",
+        "descriptionOne": "Partner with top local recruitment agencies to fulfill your employment  needs. Collaboratively select candidates and seamlessly manage the entire recruitment journey, from initial screening to government clearances and departure.\n",
+        "descriptionTwo": ""
+      },
+      "stepSix": {
+        "title": "TalentMatch Engine",
+        "descriptionOne": "Our advanced talent match algorithm is designed to revolutionize your hiring process. By meticulously analyzing candidate profiles against your specific job requirements, we deliver a shortlist of perfectly matched candidates.",
+        "descriptionTwo": "Our cutting-edge technology saves you time, reduces recruitment costs, and ensures you find the ideal talent to drive your business forward\n"
+      },
+      "stepSeven": {
+        "title": "Request verified candidates",
+        "descriptionOne": "Request your specific and complex employment needs, and Ami Probashi will deliver carefully selected candidates who perfectly match your criteria.Our team thoroughly verifies each candidate, ensuring they are eager and qualified for overseas work.",
+        "descriptionTwo": "Our team thoroughly verifies each candidate, ensuring they are eager and qualified for overseas work."
+      }
+    }
+  },
+  "TrainingInstitutes": {
+    "title": "Training Institutes",
+    "descriptionOne": "Training institutes nationwide can now expand their reach by listing their courses on Ami Probashi. Our customizable backend portal allows institutes to create comprehensive courses with tailored grading, capacity, and scheduling.",
+    "descriptionTwo": "Students can easily enroll, and institutes can issue digital certificates upon course completion, creating a paperless, streamlined process.",
+    "steps": {
+      "stepOne": {
+        "title": "Broadcast courses to millions",
+        "descriptionOne": "Publish your training courses on the Ami Probashi platform to reach a vast audience of skill seekers. Showcase the variety and quality of your offerings to attract motivated learners. Utilize the platform to highlight course details, schedules, and benefits. ",
+        "descriptionTwo": "Expand your reach and impact by connecting with aspiring professionals looking to enhance their skills. Open new opportunities for growth and development through a widely accessible platform.\n"
+      },
+      "stepTwo": {
+        "title": "Instant Online Enrollment",
+        "descriptionOne": "Enable candidates to apply for your courses from the comfort of their homes. Simplify the enrollment process with an easy-to-use online system. Provide instant enrollment confirmation and, if necessary, issue enrollment cards. \n",
+        "descriptionTwo": "Ensure a hassle-free registration experience for all participants. Streamline the process to attract more candidates and fill your classes quickly. \n"
+      },
+      "stepThree": {
+        "title": "Digital Attendance",
+        "descriptionOne": "Implement a digital attendance system using QR-coded enrollment cards. Allow candidates to scan their cards before class to record their attendance accurately. Access real-time attendance data and candidate information with ease. \n",
+        "descriptionTwo": "Enhance the efficiency and accuracy of your attendance tracking. Improve administrative processes and focus more on delivering quality education.\n"
+      },
+      "stepFour": {
+        "title": "Verified Certificates",
+        "descriptionOne": "Award QR-coded certificates to candidates upon successful course completion. Ensure the authenticity and verifiability of each certificate through digital means. \n",
+        "descriptionTwo": "Provide candidates with credible and easily shareable proof of their achievements. Enhance the value of your training programs with recognized and trusted certification\n"
+      },
+      "stepFive": {
+        "title": "Performance analytics",
+        "descriptionOne": "Ami Probashi's robust data analytics platform offers training institutes invaluable insights into their operations and the broader migration landscape.\n",
+        "descriptionTwo": "By harnessing this data, institutes can optimize course offerings, improve efficiency, enhance recruitment efforts, assess instructor performance and identify emerging trends.\n"
+      }
+    }
+  },
+  "MoEWOEAndBMET": {
+    "title": "MoEWOE and BMET",
+    "descriptionOne": "The digitisation of government services such as migrant registration, pre-departure orientation and emigration clearance has revolutionized migration by eliminating paperwork, accelerating timelines, and reducing costs for both migrants and the government.",
+    "descriptionTwo": "Empowering migrant workers with autonomy and transparency has fueled a substantial increase in applications.",
+    "steps": {
+      "signUpLogIn": "Sign Up or Log In",
+      "stepOne": {
+        "title": "Convenient Tracking",
+        "descriptionOne": "The Ami Probashi portal empowers government officials to efficiently track and approve applications, streamlining workflows and enabling more thorough reviews. \n",
+        "descriptionTwo": "This increased transparency fosters greater accountability throughout government layers.\n"
+      },
+      "stepTwo": {
+        "title": "Auto-Verified Data",
+        "descriptionOne": "Ami Probashi's integrated system streamlines the migration process by automating data verification. This reduces the risk of fraud and ensures safer, more efficient migration.\n",
+        "descriptionTwo": "Government agencies can approve applications more quickly and confidently.\n"
+      },
+      "stepThree": {
+        "title": "Eliminating Queues",
+        "descriptionOne": "Online application processes have eliminated the need for physical visits to government offices, reducing congestion and saving migrants time and money. ",
+        "descriptionTwo": "By eliminating paperwork, we've also made the process more environmentally friendly"
+      },
+      "stepFour": {
+        "title": "In-Depth Data Analytics",
+        "descriptionOne": "Our data analytics have enabled the government to identify migration trends, address bottlenecks, optimize resource allocation, and implement policy reforms that streamline the recruitment process\n",
+        "descriptionTwo": "By leveraging data, Bangladesh can revolutionize its migration industry, implementing data-driven strategies to compete effectively with other countries in sending skilled labor abroad.\n"
+      },
+      "stepFive": {
+        "title": "Cost-Effective Digital Certification",
+        "descriptionOne": "Our digital QR-code certificates and cards streamline verification and eliminate the need for costly physical cards, saving the government 50 crore annually verification and saving the government 50 crore annually in unnecessary card printing \n",
+        "descriptionTwo": ""
+      },
+      "stepSix": {
+        "title": "Increased Revenue",
+        "descriptionOne": "Ami Probashi's streamlined processes have significantly boosted government revenue by 300% through increased applications and migration\n",
+        "descriptionTwo": "Our migrant workers are the backbone of Bangladesh's economy. We're proud to facilitate their journey and streamline the foreign recruitment process\n"
+      }
+    }
+  },
+  "TrainingCenters": {
+    "title": "Training Centers",
+    "descriptionOne": "We've partnered with 120 technical training centers nationwide, implementing our backend system to streamline class management, admissions, attendance, grading, and certification, making it easier for aspiring migrants to enroll in pre-departure training and government-approved courses.",
+    "descriptionTwo": "This empowers them to prepare for their journey and find better jobs abroad.",
+    "steps": {
+      "signUpLogIn": "Sign Up or Log In",
+      "stepOne": {
+        "title": "Automated Booking",
+        "descriptionOne": "Migrants can quickly enroll in PDO and training courses within 2 minutes on the Ami Probashi app.\n",
+        "descriptionTwo": "With hundreds of options nationwide, our app streamlines the enrollment process by eliminating the need for physical admissions, saving time for both migrants and training center administrators\n"
+      },
+      "stepTwo": {
+        "title": "Online Grading and Digital Certificates",
+        "descriptionOne": "Training administrators can efficiently grade all students using our backend portal, streamlining the grading process and eliminating the need for manual record-keeping. Digital grading allows for quick feedback and the easy distribution of grade copies to supervisors, saving time and reducing paperwork.\n",
+        "descriptionTwo": "Upon course completion, students receive instant digital QR-code certificates straight to their phones for easy verification.\n"
+      },
+      "stepThree": {
+        "title": "Optimized Capacity Utilization",
+        "descriptionOne": "Request your specific and complex employment needs, and Ami Probashi will deliver carefully selected candidates who perfectly match your criteria.",
+        "descriptionTwo": "Our team thoroughly verifies each candidate, ensuring they are eager and qualified for overseas work."
+      },
+      "stepFour": {
+        "title": "Biometric Attendance",
+        "descriptionOne": "Implement a digital attendance system using QR-coded enrollment cards. Allow candidates to scan their cards before class to record their attendance accurately. Access real-time attendance data and candidate information with ease.",
+        "descriptionTwo": "Enhance the efficiency and accuracy of your attendance tracking. Improve administrative processes and focus more on delivering quality education."
+      },
+      "stepFive": {
+        "title": "Class and Batch Management",
+        "descriptionOne": "Organize and manage classes and batches effortlessly with customized schedules and course details. Ensure each class and batch meets the specific needs of your students. ",
+        "descriptionTwo": "Schedule and track timetables efficiently, staying updated with real-time changes and adjustments. Keep students and instructors aligned with the latest timetable. "
+      },
+      "stepSix": {
+        "title": "Data-Driven Resource Allocation",
+        "descriptionOne": "Ami Probashi's robust data analytics platform offers training institutes invaluable insights into their operations and the broader migration landscape.",
+        "descriptionTwo": "By harnessing this data, institutes can optimize course offerings, improve efficiency, enhance recruitment efforts, assess instructor performance, and identify emerging trends."
+      }
+    }
+  },
+  "UnionDigitalCenters": {
+    "title": "Union Digital Centers",
+    "descriptionOne": "Ami Probashi services are now accessible at over 2,000 grassroots union digital centers nationwide. Migrants can visit these centers for assistance with government services and job search. This expanded reach ensures that crucial services are within easy reach of all, providing convenient in-person support to those who need it.",
+    "descriptionTwo": "While technology adoption is important for aspiring migrants, our physical locations offer a valuable resource for those who may require additional assistance.",
+    "steps": {
+      "signUpLogIn": "Sign Up or Log In",
+      "stepOne": {
+        "title": "Increased Accessibility",
+        "descriptionOne": "By deploying our system nationwide through UDCs, we've made government services more accessible to all. This enables them to easily complete mandatory processes and benefit from these essential services.",
+        "descriptionTwo": "With our nationwide network of access points, we're saving migrants time and money by eliminating the need for long-distance travel to complete essential services.\n"
+      },
+      "stepTwo": {
+        "title": "Eliminating Middlemen",
+        "descriptionOne": "Aspiring migrants can now visit government-approved UDCs to access government services, job search, and employer connections. This eliminates the need to rely on potentially exploitative middlemen.\n",
+        "descriptionTwo": "By establishing our services in trusted UDCs, we aim to mitigate the significant issue of exploitation within the migration sector.\n"
+      },
+      "stepThree": {
+        "title": "Nationwide Assistance",
+        "descriptionOne": "Navigating the complexities of migration can be overwhelming. That's why we've established assistance points nationwide.\n",
+        "descriptionTwo": "For those who may not be technologically proficient, our in-person support ensures they receive the guidance they need.\n"
+      }
+    }
+  },
+  "AirportEmigration": {
+    "title": "Airport Emigration",
+    "descriptionOne": "Ami Probashi's biometric and QR-code verification systems streamline the emigration process at the airport. Migrants can quickly scan their fingerprints and cards for secure, efficient passage. This has greatly reduced congestion and queues normally experienced by migrants at the airport.",
+    "steps": {
+      "signUpLogIn": "Sign Up or Log In",
+      "stepOne": {
+        "title": "Ensuring Safe Migration",
+        "descriptionOne": "Our QR-code emigration cards and scanners streamline the airport clearance process, ensuring accurate identification and reducing the risk of illegal migration.",
+        "descriptionTwo": " Migrants simply scan their cards for instant verification, including biometric data, providing a safer and more efficient journey. By preventing illegal migration, we're helping to protect migrants from exploitation and other risks they may face overseas."
+      },
+      "stepTwo": {
+        "title": "Alleviating Airport Queues",
+        "descriptionOne": "The implementation of QR-code emigration cards and scanners have significantly reduced congestion and long queues at the airport. Migrants can quickly scan their fingerprints and cards for secure, efficient passage."
+      },
+      "stepThree": {
+        "title": "Swift Support Overseas",
+        "descriptionOne": "By utilizing our QR-code cards for all airport emigration, the government maintains a comprehensive record of migrant workers' destinations and employers.",
+        "descriptionTwo": "This enables embassies and high commissions to provide timely assistance in case of emergencies abroad."
+      }
+    }
+  },
+  "DemoOffices": {
+    "title": "Demo Offices",
+    "descriptionOne": "Ami Probashi's integrated system, now available at DEMO offices nationwide, streamlines the registration process for migrant workers. Bio-metric verification ensures secure identification and prevents illegal migration, while our digital platform facilitates swift entry to the national migrant database for job opportunities. This eliminates long queues and paperwork, providing a safer and more efficient migration experience.",
+    "steps": {
+      "signUpLogIn": "Sign Up or Log In",
+      "stepOne": {
+        "title": "Reduced Congestion",
+        "descriptionOne": "Ami Probashi's online registration system has significantly reduced congestion at DEMO offices. By eliminating the need for manual registration and paperwork, we've streamlined the process and made it more environmentally friendly.",
+        "descriptionTwo": ""
+      },
+      "stepTwo": {
+        "title": "Biometric Verification",
+        "descriptionOne": "Our Biometric scanners at DEMO offices streamline the registration process for migrant workers. This data is linked to their unique profiles on our platform, ensuring seamless verification during the emigration process.",
+        "descriptionTwo": "By matching Bio-metric data with emigration clearance cards at the airport, we enhance the security and efficiency of migration."
+      },
+      "stepThree": {
+        "title": "Organized Migrant Database",
+        "descriptionOne": "Our digital system streamlines the storage and tracking of migrant data, allowing the government to access records quickly and efficiently. This eliminates the need for manual searches through physical files.",
+        "descriptionTwo": "Government officials can find detailed records of migrants with the click of a button."
+      }
+    }
+  },
+  "GovernmentServices": {
+    "title": "Government Services",
+    "descriptionOne": "The digitisation of government services such as migrant registration, pre-departure orientation, and emigration clearance has revolutionized migration by eliminating paperwork, accelerating timelines, and reducing costs for both migrants and the government. This has led to a significant surge in overall applications.",
+    "explore": "Explore",
+    "steps": {
+      "stepOne": {
+        "title": "Swift and Secure Emigration Clearance",
+        "description": "Emigration clearance is a mandatory process where the government verifies your documents and employment details. Apply online for emigration clearance through the Ami Probashi app, avoiding middlemen and hidden fees. Track your application and every step and instantaneously receive your verifiable QR-code emigration card.",
+        "action": "Apply"
+      },
+      "stepTwo": {
+        "title": "Instantly Book PDO",
+        "description": "Pre-departure orientation prepares you for life in a foreign country. Select from 120 Technical training centers nationwide and book and enroll for PDO classes instantly through the Ami Probashi app. After finishing your course, get your QR-code certificate sent directly to your phone.",
+        "action": "Book"
+      },
+      "stepThree": {
+        "title": "Register to BMET",
+        "description": "To be eligible to work abroad, you must first complete BMET registration. Avoid queues and travel, and register through the Ami Probashi app in under 5 minutes. All you need is a valid passport!",
+        "action": "Register"
+      },
+      "stepFour": {
+        "title": "Get Trained",
+        "description": "Increase your chances of landing the best opportunities abroad by enrolling for expert technical training. Choose from over 100 courses throughout 120 technical training centers nationwide! Get trained, get hired.",
+        "action": "Apply"
+      }
+    },
+    "faq": {
+      "questionOne": {
+        "question": "How will I get these services?",
+        "answer": "Download the Ami Probashi app from the Google Play Store if you are an Android user, or the App Store if you are an iPhone user. Then sign up by providing some of your information. After that, you will have access to all the services."
+      },
+      "questionTwo": {
+        "question": " Where to contact if I get any problem or want to know about any service?",
+        "answer": "If you experience any issues, or want to know anything about the services, please contact us directly at 16768 or +8809638016768 for assistance."
+      }
+    }
+  },
+  "JobAndTraining": {
+    "title": "Job and Training",
+    "descriptionOne": "Discover your next career move with confidence through Ami Probashi. Our platform offers overseas job opportunities, authentic employers, and a seamless video interview process. Build a standout CV with ease using our user-friendly tool and connect directly with genuine recruiters. Enhance your skills with our comprehensive training programs designed to prepare you for success in your new role. Find your dream job safely and efficiently, all from the comfort of your home.",
+    "apply": "Apply",
+    "steps": {
+      "stepOne": {
+        "title": "Verified Jobs",
+        "description": "Secure your future with verified job opportunities on Ami Probashi. Don't fall victim to fake promises and fake opportunities. Find your dream job, without the worry.",
+        "action": "Apply"
+      },
+      "stepTwo": {
+        "title": "Authentic Employers",
+        "description": "Protect yourself from fraudulent employers and middlemen. All employers on Ami Probashi are verified to ensure your safety and peace of mind. Connect with genuine employers directly through our app and find your dream job.",
+        "action": "Apply"
+      },
+      "stepThree": {
+        "title": "Video Interviews with Employers",
+        "description": "Land your dream job without leaving home. Our video interview platform connects you directly with verified local and international recruiters. Save time and effort with hassle-free virtual interviews.",
+        "action": "Apply"
+      },
+      "stepFour": {
+        "title": "CV Builder",
+        "description": "Create a standout CV effortlessly with our fun and easy-to-use builder. Highlight your skills, experiences, and achievements to craft a professional document that catches the eyes of employers.",
+        "action": "Apply"
+      }
+    },
+    "faq": {
+      "questionOne": {
+        "question": "How will I get these services?",
+        "answer": "Download the Ami Probashi app from the Google Play Store if you are an Android user, or the App Store if you are an iPhone user. Then sign up by providing some of your information. After that, you will have access to all the services."
+      },
+      "questionTwo": {
+        "question": " Where to contact if I get any problem or want to know about any service?",
+        "answer": "If you experience any issues, or want to know anything about the services, please contact us directly at 16768 or +8809638016768 for assistance."
+      }
+    }
+  },
+  "CareerConsultancy": {
+    "title": "Career Consultancy",
+    "descriptionOne": "Receive expert career consultancy with ease through our service. Connect with authentic consultants in just 5 minutes for personalized guidance on finding a job abroad. Our experts will assist with CV creation, recommend training, and connect you with top recruiters. After your consultancy, we'll schedule video interviews with legitimate employers, helping you move closer to landing your dream job. Save time and effort with convenient online interviews.",
+    "callConsultant": "Call a Consultant",
+    "steps": {
+      "stepOne": {
+        "title": "Receive expert career consultancy",
+        "description": "Call our authentic, expert consultants and receive proper guidance in finding a job abroad. Connect with a consultant in 5 minutes. Take the right steps with expert advice.",
+        "action": "Call now"
+      },
+      "stepTwo": {
+        "title": "Let Our Consultant Craft the Perfect CV",
+        "description": "Our consultants will make a comprehensive CV for you, highlighting your skills and strengths. They’ll do all the work while you tell them your information over the phone. Increase your chances of finding employment abroad with a standout CV.",
+        "action": "Call now"
+      },
+      "stepThree": {
+        "title": "Video Interviews with Employers",
+        "description": "After completing your consultancy, our expert staff will schedule interviews for jobs with legitimate employers across the nation, helping you get one step closer to landing your dream job abroad.",
+        "action": "Call now"
+      }
+    },
+    "faq": {
+      "questionOne": {
+        "question": "How will I get these services?",
+        "answer": "Download the Ami Probashi app from the Google Play Store if you are an Android user, or the App Store if you are an iPhone user. Then sign up by providing some of your information. After that, you will have access to all the services."
+      },
+      "questionTwo": {
+        "question": " Where to contact if I get any problem or want to know about any service?",
+        "answer": "If you experience any issues, or want to know anything about the services, please contact us directly at 16768 or +8809638016768 for assistance."
+      }
+    }
+  },
+  "BRACServices": {
+    "title": "BRAC Services",
+    "descriptionOne": "Explore new opportunities with Brac's support programs through Ami Probashi. Our platform offers a streamlined returnee migration program, providing financial aid, career counseling, and referrals to social services for returning migrants. Enhance your skills with market-driven training programs tailored for global opportunities, and find skilled jobs abroad through Brac's extensive network. Enroll in these programs and apply for high-paying positions safely and efficiently.",
+    "apply": "Apply",
+    "steps": {
+      "stepOne": {
+        "title": "Returnee Migration Programme",
+        "description": "BRAC's Returnee Migration Program offers tailored benefits and support to migrants returning home. Easily enroll through the Ami Probashi app in just 5 minutes. Access financial aid, career counseling, and referrals to government social services to ensure a smooth transition back home.",
+        "action": "Apply"
+      },
+      "stepTwo": {
+        "title": "Market-Driven Skill Training",
+        "description": "Upskill for global opportunities with BRAC's specialized training programs. BRAC courses focus on in-demand skills for international markets, equipping you with practical knowledge to secure better jobs abroad. Enroll today!",
+        "action": "Apply"
+      },
+      "stepThree": {
+        "title": "Skilled Jobs Abroad",
+        "description": "BRAC offers skilled workers opportunities to find fulfilling jobs abroad. Their extensive network and commitment to ethical recruitment ensure a safe and reliable experience. Discover exciting BRAC opportunities on Ami Probashi and apply now for high-paying positions.",
+        "action": "Apply"
+      }
+    },
+    "faq": {
+      "questionOne": {
+        "question": "How will I get these services?",
+        "answer": "Download the Ami Probashi app from the Google Play Store if you are an Android user, or the App Store if you are an iPhone user. Then sign up by providing some of your information. After that, you will have access to all the services."
+      },
+      "questionTwo": {
+        "question": " Where to contact if I get any problem or want to know about any service?",
+        "answer": "If you experience any issues, or want to know anything about the services, please contact us directly at 16768 or +8809638016768 for assistance."
+      }
+    }
+  },
+  "LifestyleServices": {
+    "title": "Lifestyle Services",
+    "descriptionOne": "Unlock a range of services with Ami Probashi. Access expert medical care with Bangla-speaking doctors, receive prescriptions directly on your phone, and overcome language barriers for quality healthcare. Soon, you'll be able to benefit from our e-learning platform, offering a wide range of courses and interactive lessons tailored to your needs. Dive into our entertainment hub for diverse content in your language, and manage your finances easily with our upcoming digital banking service. Experience convenience, quality, and personalization with our comprehensive offerings.",
+    "apply": "Apply",
+    "steps": {
+      "stepOne": {
+        "title": "Online Doctor (Probashi Health Care)",
+        "description": "Access expert medical care anytime, anywhere. Connect with a Bangla-speaking doctor within 10 minutes. Our doctors provide comprehensive consultations and send prescriptions straight to your phone. Overcome language and cost barriers and experience convenient, quality healthcare today.",
+        "action": "Apply"
+      },
+      "stepTwo": {
+        "title": "E-Learning (Probashi Learning Hub) (Coming Soon)",
+        "description": "Empower yourself with knowledge anytime, anywhere. Our platform offers comprehensive courses and personalized guidance straight to your device. Choose from a wide range of subjects, from language learning to professional skills, all taught by experienced instructors. Engage in interactive lessons, access a rich library of resources, and track your progress easily. Overcome language and accessibility barriers, enhance your skills, and open new opportunities for your future. Experience convenient, high-quality learning tailored to your needs today.",
+        "action": "Apply"
+      },
+      "stepThree": {
+        "title": "Entertainment (Probashi Entertainment Hub) (Coming Soon)",
+        "description": "Discover endless fun and excitement anytime, anywhere. Our platform offers a diverse range of entertainment options, from movies and TV shows to music and live events, all tailored to your preferences. Enjoy high-quality streaming with content in your language and explore new genres and artists. Access exclusive features, such as personalized recommendations and interactive experiences, to enhance your entertainment journey. Overcome language barriers and enjoy seamless, enjoyable content that fits your lifestyle. Dive into a world of entertainment designed just for you.",
+        "action": "Apply"
+      },
+      "stepFour": {
+        "title": "Open a Bank Account (Coming Soon)",
+        "description": "Open a bank account online with ease and start building your financial future today. Enjoy a simple, fast, and secure process from the comfort of your home. Manage your money effortlessly, access a range of banking services, and take control of your financial stability with just a few clicks. Get started now and experience the convenience of digital banking.",
+        "action": "Apply"
+      }
+    },
+    "faq": {
+      "questionOne": {
+        "question": "How will I get these services?",
+        "answer": "Download the Ami Probashi app from the Google Play Store if you are an Android user, or the App Store if you are an iPhone user. Then sign up by providing some of your information. After that, you will have access to all the services."
+      },
+      "questionTwo": {
+        "question": " Where to contact if I get any problem or want to know about any service?",
+        "answer": "If you experience any issues, or want to know anything about the services, please contact us directly at 16768 or +8809638016768 for assistance."
+      }
+    }
+  },
+  "global": {
+    "signUpOrLogin": "Sign Up or LogIn",
+    "explore": "Explore",
+    "callConsistency": "Call to Consultant",
+    "callNow": "Call now",
+    "apply": "Apply",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "FAQ": {
+      "questionOne": {
+        "question": "How can I connect with Ami Probashi?",
+        "answer": "You can connect by signing up on the Ami Probashi platform. To do so, provide some basic information and complete the sign-up process."
+      },
+      "questionTwo": {
+        "question": "What should I do if I encounter any problems during the sign-up process?",
+        "answer": "If you experience any issues, please contact us directly at 16768 or +8809638016768 for assistance."
+      }
+    },
+    "FAQTitle": "Frequently Asked Questions"
+  },
+  "probashiApp": {
+    "title": "Get the Ami Probashi App",
+    "description": "To go abroad, do the government processes at home in a short time",
+    "downloadApp": "Download App"
+  },
+  "footer": {
+    "callNow": "Call now for any need?",
+    "letUsKnow": "Let us know 24/7 in 16768",
+    "16768": "16768",
+    "or": "or",
+    "09638-016768": "09638-016768",
+    "amiProbashi": "Ami Probashi",
+    "findJob": "Find Job",
+    "makeCV": "Make CV",
+    "careerConsultancy": "Career Consultancy",
+    "probashiBusiness": "Probashi Business",
+    "business": "Business",
+    "localRecruitingAgency": "Local Recruiting Agency",
+    "foreignEmployer": "Foreign Employer",
+    "trainingInstitute": "Training Institute",
+    "lifeStyleService": "Life Style Service",
+    "onlineDoctor": "Online Doctor",
+    "probashiLearning": "Probashi Learning",
+    "entertainment": "Entertainment",
+    "ourCompany": "Our Company",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "connectWithUs": "Connect with us",
+    "getTheAmiProbashiApp": "Get the Ami Probashi App",
+    "copyright": "© Copyright 2024 AmiProbashi. All Rights Reserved.",
+    "siteMap": "Site Map",
+    "termsAndConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "refundPolicy": "Refund Policy"
+  },
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "government": "Government",
+    "bmetRegistration": "BMET Registration",
+    "pdoPreDepartureOrientation": "PDO (Pre-Departure Orientation)",
+    "generalTraining": "General Training",
+    "bmetClearanceSmartCard": "BMET Clearance (Smart Card)",
+    "job": "Job",
+    "findJob": "Find Job",
+    "makeCV": "Make CV",
+    "takeCareerConsultancy": "Take Career Consultancy",
+    "lifeStyle": "Life Style",
+    "onlineDoctorProbashiHealth": "Online Doctor (Probashi Health)",
+    "entertainmentComingSoon": "Entertainment (Coming Soon)",
+    "eLearningComingSoon": "e-Learning (Coming Soon)",
+    "brac": "BRAC",
+    "returneeMigrants": "Returnee Migrants",
+    "skillTraining": "Skill Training",
+    "overseasEmployment": "Overseas Employment",
+
+    "recruitment": "Recruitment",
+    "foreignEmployers": "Foreign Employers",
+    "talentPool": "Talent Pool",
+    "postJob": "Post Job",
+    "videoInterview": "Video Interview",
+    "connetToLocalRecruitingAgencies": "Connect to Local Recruiting Agencies",
+    "governmentCompliance": "Government Compliance",
+    "localEmployers": "Local Employers",
+    "trainingInstitute": "Training Institute",
+    "broadcastCourses": "Broadcast courses",
+    "onlineEnrollment": "Online Enrollment",
+    "digitalAttendance": "Digital Attendance",
+
+    "moewoeBmet": "MoEWOE and BMET",
+    "ttc": "Technical Training Center (TTC) ",
+    "unionDigitalCenters": "Union Digital Centers",
+    "airportEmigration": "Airport Emigration",
+    "demoOffices": "Demo Offices",
+
+    "portals": "Portals",
+    "governmentPortal": "Government Portal",
+    "bmet": "BMET",
+    "demoOffice": "DEMO Office",
+    "bimt": "BIMT",
+    "recruitmentPortal": "Recruitment Portal",
+    "recruitingAgency": "Recruiting Agency",
+    "foreignEmployer": "Foreign Employer",
+    "raAccountRequest": "RA Account Request",
+
+    "downloadCards": "Download Cards",
+    "bmetService": "BMET Service",
+    "downloadClearanceCard": "Download Clearance Card (Smart Card)",
+    "trackClearanceApplication": "Track Clearance Application",
+    "verifyBmetClearanceCard": "Verify BMET Clearance Card",
+    "trainingAndCertificate": "Training & Certificate",
+    "downloadGeneralCertificate": "Download General Certificate",
+    "downloadHousekeepingCertificate": "Download Housekeeping Certificate",
+    "downloadEnrollmentCardGeneralHousekeeping": "Download Enrollment Card (General/ Housekeeping)",
+    "pdo": "Pre Departure Orientation (PDO)",
+    "downloadEnrollmentCard": "Download Enrollment Card ",
+    "downloadPdoCertificate": "Download PDO Certificate",
+    "aboutUs": "About us"
+  },
+
+  "info": {
+    "service": "million+",
+    "serviceNumber": "7",
+    "serviceText": "Unique services taken from our platform",
+    "aspiring": "million",
+    "aspiringText": "Aspiring migrants on our database",
+    "quicker": "days",
+    "quickerText": "quicker to migrate using our platform",
+    "saved": "saved",
+    "savedText": "on average per migrant",
+    "employers": "+",
+    "employersText": "Employers use our platform"
+  },
+  "recruit": {
+    "title": "Recruit from Bangladesh"
+  },
+  "rcruitTab": {
+    "tabOne": "Local Employers",
+    "tabOneTitle": "Recruiting Agency Portal",
+    "tabOneText": "Our full-stack recruitment ERP empowers your agency with end-to-end solutions. Post jobs, source verified candidates, complete government processes online, and gain complete recruitment visibility.",
+    "tabTwo": "Foreign Employers",
+    "tabTwoTitle": "Foreign Recruiting Agency Portal",
+    "tabTwoText": "Accelerate your global hiring with our comprehensive platform. Access a vast talent pool of 5 million aspiring workers, conduct efficient video interviews, navigate government compliance, leverage local recruiting agencies, and track your entire recruitment process.",
+    "tabThree": "Training Institutes",
+    "tabThreeTitle": "Technical Training Centers",
+    "tabThreeText": "Broadcast your courses to millions of learners, automate enrollment and attendance, manage classes efficiently, customize your grading scheme, and gain valuable performance analytics."
+  },
+  "common": {
+    "signup": "Sign up",
+    "learnmore": "Learn more"
+  },
+  "migrantWorkers": {
+    "title": "For Migrants Workers",
+    "weare": "Who we are",
+    "tabs": {
+      "tabOne": {
+        "name": "Government services",
+        "titleOne": "BMET registration",
+        "textOne": "Skip queues and securely register into Bangladesh’s migrant database from the comfort of your home through Ami Probashi app.",
+        "titleTwo": "Pre-departure orientation",
+        "textTwo": "Enroll into PDO classes, attend via biometric verification and receive your QR-code certificate directly on your phone.",
+        "titleThree": "General training",
+        "textThree": "Advance your career and enroll into hundreds of skill-based courses offered at over 120 technical training centers across Bangladesh.",
+        "titleFour": "Emigration Clearance",
+        "textFour": "Apply for Emigration clearance digitally,  and avoid queues, middlemen and long processing times. Track your application online and instantly receive your QR-code Emigration card, required to pass airport emigration."
+      },
+      "tabTwo": {
+        "name": "BRAC Services",
+        "titleOne": "Returnee Migration programs",
+        "textOne": "Returning expatriates can enroll in the BRAC returnee program to access specialized programs and facilities. Benefit from tailored support designed to ease your reintegration process.",
+        "titleTwo": "Market-driven skills training",
+        "textTwo": "Enroll into a wide range of courses aligned with global job demands, including IT, construction hospitality and healthcare, enhancing your employability in foreign markets.",
+        "titleThree": "Skilled jobs",
+        "textThree": "Apply for skilled jobs posted by BRAC and find the best opportunity to start your career abroad."
+      },
+      "tabThree": {
+        "name": "Job & training",
+        "titleOne": "Verified Jobs",
+        "textOne": "Apply for thousands of verified jobs through the Ami Probashi platform for a secure and reliable job search experience.",
+        "titleTwo": "Authentic employers",
+        "textTwo": "Engage with authentic recruiting agencies and communicate directly with them, avoiding shady middlemen and fake employers.",
+        "titleThree": "Enlist into our migrant database",
+        "textThree": "Join Ami Probashi and be part of our talent pool. Employers actively search our database for top talent.",
+        "titleFour": "Skill Development",
+        "textFour": "Enroll in various training courses provided by institutes and receive a QR code certificate upon completion. Enhance your skills and credentials effortlessly."
+      },
+      "tabFour": {
+        "name": "Career Consultancy",
+        "titleOne": "Receive expert consultation",
+        "textOne": "Receive consultancy from authentic sources and get proper guidance in finding a job abroad. Take the right steps with expert advice.",
+        "titleTwo": "Enhanced CV building",
+        "textTwo": "Our consultants will make a comprehensive CV for you, highlighting your skills and strengths, increasing your chances of finding employment abroad.",
+        "titleThree": "Video interviews with employers",
+        "textThree": "Interview for jobs with employers across the nation and world from the comfort of your home."
+      },
+      "tabFive": {
+        "name": "Lifestyle service",
+        "titleOne": "Online doctor",
+        "textOne": "Consult with local doctors online within minutes through the Ami Probashi app, no matter where you are. Get medical advice and prescriptions quickly and conveniently.",
+        "titleTwo": "E-Learning",
+        "textTwo": "Your desired skills and courses are now within reach. Enroll and start learning immediately through online courses and improve your employability.",
+        "titleThree": "CV builder",
+        "textThree": "Effortlessly showcase your talents with our CV builder. Add skills, experience and documents, increasing your job eligibility, and get discovered by employers.",
+        "titleFour": "Entertainment",
+        "textFour": "Experience endless entertainment anytime, anywhere with our platform. Enjoy a wide variety of movies, TV shows, music, and live events tailored to your preferences.",
+        "titleFive": "Bank account opening",
+        "textFive": "Easily open a bank account online and secure your financial stability (coming soon)."
+      }
+    }
+  },
+  "governmentStackholders": {
+    "title": "Integrated Government stakeholders",
+    "tabs": {
+      "tabOne": {
+        "name": "BMET services",
+        "textOne": "Ami Probashi transformed the migrant experience by digitizing BMET's manual procedures. Our 2021 launch of digital migrant registration (BMET registration) enabled over 3.5 million migrants to bypass queues and hidden fees by registering through our app.",
+        "textTwo": "In 2023 we introduced e-emigration clearance. By eliminating physical queues and paperwork, we've streamlined the process for both migrants and agencies. Our automated system verifies data, offers real-time tracking, and instantly issues QR-code smart cards. This empowers aspiring migrant workers to bypass middlemen and save significantly on hidden fees.",
+        "textThree": "The government's dedicated portal facilitates efficient application tracking and approval. Our data analytics enable them to identify trends, address bottlenecks, allocate resources effectively, and optimize the migration process."
+      },
+      "tabTwo": {
+        "name": "Trainings Centers",
+        "textOne": "Ami Probashi offers a range of general training courses and Pre-Departure Orientation (PDO) courses throughout 120 technical training centers nationwide. These training programs cover various essential skills and courses, enabling individuals to acquire better employment opportunities.",
+        "textTwo": "We have streamlined the training process through digital enrollment, biometric attendance, and QR code certification. Real-time updates and online grading provide immediate feedback to participants.",
+        "textThree": "With over 2.5 million PDOs and 350,000 general training enrollments, Ami Probashi has revolutionized migrant training access. Our efficient class management and paperless grading system have significantly streamlined government operations."
+      },
+      "tabThree": {
+        "name": "UDC Services",
+        "textOne": "Union Digital Centers (UDCs) play a vital role in extending Ami Probashi’s services to rural and remote areas. These centers assist individuals with BMET registration, biometric data collection, and emigration clearance application processes. UDCs also provide access to the Ami Probashi platform, helping users enroll in training programs and apply for verified job opportunities. By offering these services locally, UDCs ensure that aspiring migrants from all regions have the support they need to pursue employment abroad effectively and efficiently.",
+        "textTwo": "By offering these services locally, UDCs ensure that aspiring migrants from all regions have the support they need to pursue employment abroad effectively and efficiently."
+      },
+      "tabFour": {
+        "name": "Airport Services",
+        "textOne": "Ami Probashi has revolutionized the emigration process for departing migrants, making it faster and more efficient. Migrants can now swiftly pass through emigration by simply scanning their digital QR-code cards at the gate.",
+        "textTwo": "This scan instantly retrieves all necessary information, enabling immigration officers to quickly verify their identity and details, ensuring secure and legitimate migration. As a result, this streamlined approach has significantly reduced immigration processing times."
+      },
+      "tabFive": {
+        "name": "DEMO offices",
+        "textOne": "DEMO offices nationwide are now equipped with Ami Probashis backend system, allowing migrants to register into the BMET database quickly, eliminating long waiting times and unnecessary paperwork. Enrolling through our portal instantly adds aspiring migrant workers to the national database, enabling them to swiftly pursue job opportunities.",
+        "textTwo": "Each DEMO office is equipped with Ami Probashi biometric devices, provided free of charge to the government. This enables migrant workers to register and verify their identity quickly and securely, a vital step in preventing illegal migration. Our devices cross-check biometric data at the airport, ensuring that only authorized individuals depart and preventing dangerous situations."
+      }
+    }
+  },
+  "partnership": {
+    "title": "Ami Probashi Partnership",
+    "tabs": {
+      "tabOne": {
+        "name": "Bangladesh Ministry",
+        "text1": "Ami Probashi collaborates closely with the Ministry of Bangladesh to ensure streamlined, safe and orderly migration. This partnership facilitates streamlined processes for overseas job placements, ensuring that candidates meet all necessary regulations and standards. Ami Probashi has assisted the Ministry by providing in-depth data analytics, which has supported policy reforms and better resource allocation. Our collaboration has democratized the migration process, providing autonomy and transparency to migrant workers and employers alike. This collaboration aims to boost the overall employment rate and economic growth by enabling more Bangladeshi citizens to find work abroad."
+      },
+      "tabTwo": {
+        "name": "ICT Division",
+        "text1": "Partnering with the ICT Division, Ami Probashi leverages advanced technological solutions to improve its service delivery. This collaboration ensures the digital registration process is efficient and secure, providing real-time updates to users. The ICT Division supports the development and maintenance of the Ami Probashi platform, integrating features like QR-code verification and online tracking. This partnership helps in managing secure data systems, safeguarding personal information, and enhancing user experience. By utilizing cutting-edge technology, the ICT Division and Ami Probashi can offer a seamless and user-friendly service to aspiring migrants."
+      },
+      "tabThree": {
+        "name": "BRAC",
+        "text1": "Ami Probashi’s partnership with BRAC focuses on providing comprehensive training programs and support services to aspiring and returning migrants alike. BRAC’s extensive experience in educational and vocational training ensures high-quality, relevant courses are available through the Ami Probashi platform. Together, they offer a range of skill development opportunities, from technical training to language courses, all aimed at improving employability. This collaboration also involves joint initiatives to support returnee migrants, helping them reintegrate into the local economy. The combined efforts of Ami Probashi and BRAC ensure that individuals are well-prepared for overseas employment, enhancing their chances of success."
+      },
+      "tabFour": {
+        "name": "BMET",
+        "text1": "The partnership with BMET is fundamental to Ami Probashi’s mission, as it has enabled us to digitalise crucial processes like migrant database registration and Emigration clearance. BMET provides regulatory oversight, ensuring that all candidates and recruiting agencies comply with national and international standards. This collaboration allows for the efficient government compliance and data verification to ensure legitimate migration. BMET’s support ensures that the emigration clearance process is transparent, reducing wait times and enhancing efficiency. Through this partnership, Ami Probashi helps candidates navigate the regulatory landscape, making their journey to overseas employment smoother and more reliable."
+      }
+    }
+  },
+  "weare": {
+    "title": "Who we are",
+    "text1": "Ami Probashi is a comprehensive digital platform designed to bring transparency, reduce migration costs, and speed up migration processes through convenient online services available right at your doorstep.",
+    "text2": "The platform connects aspiring migrant workers with legitimate employers, streamlining each step of the migration journey through online processes. By eliminating middlemen, Ami Probashi allows for journey steps to be completed by aspiring migrants themselves",
+    "cardOne": "Zero cost to Government",
+    "cardTwo": "Safeguarding human trafficking",
+    "cardThree": "Reduced migration time and cost",
+    "cardFour": "Eliminating Middlemen",
+    "cardFive": "Democratized migration"
+  },
+  "bannerOne": {
+    "title": "Empowering Migrant workers",
+    "subTitle": "Bridging the gap between aspiring migrant workers, local and foreign recruiters, and government stakeholders",
+    "btnOne": "Download QR-Code Clearance Card",
+    "btnTwo": "Verify BMET Smart Card"
+  },
+  "bannerTwo": {
+    "title": "Recruitment Re-imagined",
+    "subTitle": "Recruit top talent from Bangladesh with our all-in-one platform",
+    "btnOne": "Login/Sign up to recruitment portal"
+  },
+  "bannerThree": {
+    "title": "Integrated Government Services",
+    "subTitle": "Effortless Emigration Clearance, Pre-Departure Orientation, and BMET Registration at your fingertips.",
+    "btnOne": "Request for  Portal"
+  },
+  "newspaper": {
+    "title": "Newspaper Making Headlines",
+    "viewAll": "View All",
+    "news1": {
+      "title": "Making migration more accessible",
+      "text": "The 'Ami Probashi' app streamlines the migration process for aspiring Bangladeshis seeking employment abroad."
+    },
+    "news2": {
+      "title": "Revolutionizing Migration: Erase middlemen",
+      "text": "Ami Probashi, A2i, and BRAC join forces to erase middlemen from the migration sector."
+    },
+    "news3": {
+      "title": "Enhancing Migration Accessibility",
+      "text": "How the 'Ami Probashi' app can simplify migration by bypassing middlemen."
+    },
+    "news4": {
+      "title": "Ami Probashi' Saves Time and Money for Migrants",
+      "text": "How the app simplifies the migration process, cutting down costs and processing time."
+    }
+  },
+  "stories": {
+    "title": "Real Happy Customers, Real Stories",
+    "story1": {
+      "name": "Matiur Rahman",
+      "designation": "General Worker",
+      "text": "Using Ami Probashi, I am going abroad completing all the processes by myself. I didn’t have to take any help from any middlemen. I want to recommend everyone to use this app."
+    },
+    "story2": {
+      "name": "Hasibul Hasan",
+      "designation": "General Worker",
+      "text": "I got a job in Saudi Arabia using Ami Probashi app. I downloaded the app and just followed the guidelines step by step."
+    },
+    "story3": {
+      "name": "Md. Alauddin",
+      "designation": "General Worker",
+      "text": "I couldn’t return to Bahrain due to COVID pandemic. Later, I installed the Ami Probashi app to register for priority vaccination. I also found a job in Saudi Arabia. Now I am going there by completing all the procedures at a more affordable rate."
+    },
+    "story4": {
+      "name": "Sharif Mollah",
+      "designation": "General Worker",
+      "text": "I failed to go abroad few times despite paying the middlemen. Then I installed the Ami Probashi app and applied to different jobs. I got a call after few days. Now, I am going abroad completing all by myself."
+    }
+  },
+  "download": {
+    "title": "Download Certificate & Cards",
+    "subtitle": "BMET Registration, BMET Clearance, PDO Enrollment, PDO Certificate & Training Certificate"
+  },
+  "downloadTab": {
+    "tabOne": "BMET Reg Card",
+    "tabTwo": "BMET Smart Card",
+    "tabThree": "Verify Smart Card",
+    "tabFour": "Track Application",
+    "tabFive": "All PDO Cards",
+    "tabSix": "All Training Certificates"
+  },
+
+  "communitySection": {
+    "title": "A community of 5 million+ aspiring migrants, recruiting agencies, and foreign employers under one ecosystem",
+    "descriptionOne": "Ami Probashi is a Government approved Mobile App and Web Portal that assists aspiring Bangladeshi migrants in gaining employment abroad by engaging all stakeholders. Users can complete mandatory Government processes from the comfort of their homes, avoid middlemen, save cost, and gain autonomy within the migration process.",
+    "descriptionTwo": "Foreign employers and recruiting agencies can leverage the Ami Probashi Recruitment Management System (A-RMS) to swiftly fulfill your recruitment needs from Bangladesh. The recruitment process has been simplified and digitalized: Source desired candidates from the expansive database, communicate online, complete mandatory government processes, apply for Bangladesh High commission attestation, book for pre departure orientation, complete BMET immigration process, and receive reporting and guidance throughout the recruitment process, all from your employer’s portal."
+  },
+  "missionVision": {
+    "title": "Our Mission and Vision",
+    "descriptionOne": "Ami Probashi is committed to transforming the migration experience for aspiring workers by making it transparent, safe, and cost-effective. Our platform directly connects migrants with legitimate employers, eliminating the reliance on middlemen who often exploit them. By digitizing the entire migration process, we empower migrants to take control of their journey, from learning about job opportunities to completing government requirements and securing employment abroad.",
+    "descriptionTwo": "Our mission is to protect migrants from fraudulent practices, reduce the risk of human trafficking, and ensure that their hard-earned money is spent wisely. Ami Probashi offers continuous support and guidance, even after migrants reach their destination, ensuring their well-being throughout their stay abroad. By streamlining every step and providing clear, accurate information, we aim to democratize access to global job markets, reduce migration time and costs, and create a fairer, more transparent system that benefits both migrants and governments alike.",
+    "aboutUs": "About us"
+  },
+  "bmetReg": {
+    "title": "BMET Registration Card",
+    "btnText": "Search BMET Registration Card",
+    "role1": "Enter your passport number.",
+    "role2": "Enter the captcha code to access your BMET registration card.",
+    "role3": "Click on the \"Search\" button",
+    "role4": "If the payment is not yet completed, make the payment.",
+    "role5": "After the payment is successful, you can view the card.",
+    "role6": "Click the \"Download\" button to download the card.",
+    "downloadInstructionTitle": "Instruction"
+  },
+  "bmetSmartCard": {
+    "title": "BMET Smart Card",
+    "btnText": "Search BMET Smart Card",
+    "role1": "Enter your passport number.",
+    "role2": "Enter the captcha code to access your BMET smart card.",
+    "role3": "Click on the \"Search\" button",
+    "role4": "After your clearance application is approved, download your clearance card.",
+    "role5": "Download your QR-code-based BMET smart card and scan it at airport immigration."
+  },
+  "verifySmartCard": {
+    "title": "Verify BMET Smart Card",
+    "btnText": "Verify BMET Smart Card",
+    "role1": "Enter your passport number or clearance ID.",
+    "role2": "Enter the captcha code to access your BMET smart card.",
+    "role3": "Click on the \"Verify\" button.",
+    "role4": "After your clearance application is approved, you can verify your clearance card.",
+    "role5": "You will receive the verification status if your card is valid."
+  },
+  "trackApplication": {
+    "title1": "BMET Clearance Application Tracking",
+    "btnText": "Track Application",
+    "verifyAgain": "Verify Again",
+    "trackAgain": "Track Again",
+    "label1": "Passport/ Clearance Application ID",
+    "placeholder1": "Enter your passport number / clearance application ID"
+  },
+  "trackerInstructions": {
+    "role1": "If you have already applied for BMET clearance, you can track your application.",
+    "role2": "Enter your passport number or clearance application ID",
+    "role3": "Enter the captcha code to access your BMET smart card.",
+    "role4": "Click on the \"Track\" button.",
+    "role5": "You can view the current status of your application."
+  },
+  "allPdoCard": {
+    "title1": "PDO Certificate & Enrollment Card",
+    "radio1": "PDO Certificate Download",
+    "radio2": "PDO Enrollment Card",
+    "btnText": "Search Card/ Certificate",
+    "role1": "To download the enrollment card, select \"PDO Enrollment Card.\"",
+    "role2": "To download the certificate, select \"PDO Certificate.\"",
+    "role3": "Enter your passport number.",
+    "role4": "Enter the captcha code.",
+    "role5": "Click on the \"Search\" button.",
+    "role6": "If the payment is not yet completed, make the payment.",
+    "role7": "After the payment is successful, you can view the card or certificate.",
+    "role8": "Click the \"Download\" button to download the card or certificate."
+  },
+  "trainingCertificate": {
+    "title": "All Training Certificate/ Enrollment Card",
+    "radio1": "General Certificate",
+    "radio2": "Housekeeping Certificate",
+    "radio3": "Enrollment Card (General/ Housekeeping)",
+    "btnText": "Search Card/ Certificate",
+    "inputLabel": "Passport number/ NID/ Birth Registration number",
+    "inputPlaceholder": "Enter passport or NID or birth registration number",
+    "role1": "To download the general training certificate, select \"General Certificate.\"",
+    "role2": "To download the housekeeping certificate, select \"Housekeeping Certificate.\"",
+    "role3": "To download the enrollment card for general or housekeeping training, select \"Enrollment Card (General/Housekeeping).\"",
+    "role4": "Enter your passport number, NID, or birth registration number.",
+    "role5": "Enter the captcha code.",
+    "role6": "Click on the \"Search\" button.",
+    "role7": "If the payment is not yet completed, make the payment.",
+    "role8": "After the payment is successful, you can view the card or certificate.",
+    "role9": "Click the \"Download\" button to download the card or certificate."
+  },
+  "verifyCard": {
+    "passport": "Passport",
+    "pdo": "PDO (Pre Departure Orientation)",
+    "bmet": "BMET Registration",
+    "clearanceID": "Clearance ID",
+    "clearanceDate": "Clearance Date",
+    "visaNo": "Visa No",
+    "bmetNo": "BMET NO",
+    "smartCardVerified": "Smart Card Verified",
+    "onlineClearance": "(Online Clearance)",
+    "manualClearance": "(Manual Clearance)"
+  },
+  "inputField": {
+    "label1": "Passport Number",
+    "placeholder1": "Enter your passport number",
+    "label2": "Passport Number",
+    "placeholder2": "Enter your passport number",
+    "captchaPlaceholder": "Enter Captcha Code",
+    "payNow": "Pay Now",
+    "tryAgain": "Try Again",
+    "searchAgain": "Search Again",
+    "BMETRegCardButton": "Pay for BMET Reg Card",
+    "BMETSmartCardButton": "Pay for BMET Smart Card",
+    "PDOCertificateButton": "Pay for PDO Certificate",
+    "trainingCertificateButton": "Pay for Training Certificate",
+    "housekeepingCertificateButton": "Pay for Housekeeping Certificate"
+  },
+  "errors": {
+    "required": "This field is required",
+    "passport": "Passport number needs to be at least 9 characters",
+    "captch": "Captcha text does not match"
+  },
+  "refundPolicy": {
+    "title": "Refund Policy",
+    "subTitle": "Stay updated with Ami Probashi along with the latest on migration",
+    "general": {
+      "title": "Refund Policy (General)",
+      "text1": "A refund is applicable if a unique BMET number, Pre-departure Orientation (PDO) session booking, certificate download has not been permitted against a user’s request upon payment has been made via an available payment source (MFS/Debit/Credit Card).",
+      "text2": "In such circumstances, based on proper authentication, the refund amount will be sent to the user's original payment source (MFS/Debit/Credit Card) within ten to fourteen working days after submitting the refund request."
+    },
+    "ccs": {
+      "title": "Refund Policy (Career Consultancy Service)",
+      "text1": "A refund is applicable if a candidate does not secure any interviews with agencies within six months of engaging our career consultancy services, a full refund may be issued upon request.",
+      "text2": "To qualify for a refund, the original payment must have been made through a valid payment method (MFS/Debit/Credit Card). Upon verification of eligibility, the refund will be processed and credited back to the original payment source within ten to fourteen business days."
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "subTitle": "Stay updated with Ami Probashi along with the latest on migration",
+    "privacyPolicySection": {
+      "title": "Privacy Policy",
+      "text1": "We hereby inform you that AmiProbashi Ltd. present Privacy Policy applies to the use of all AmiProbashi services offered through the Website, through online and offline mobile devices, and through the desktop application.The present Privacy Policy also details how we handle and process your data when you access our website and when you give us your personal data through the available forms.",
+      "text2": "In order to provide clear and transparent information, we have created different sections in accordance with the data that is processed:",
+      "list1": "AmiProbashi Platform",
+      "list2": "Commercial information - marketing",
+      "list3": "Applicants to AmiProbashi’ job openings",
+      "list4": "Corporate events",
+      "list5": "General",
+      "text3": "These sections detail the purposes for which we process your data, for how long we will have access to and process your data, with whom we are able to share it, what your rights pertaining to said data are, and additional relevant information, in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (the \"European Regulation\" or \"GDPR\"), and the current Organic Law on Data Protection in Spain (LOPD).For the sake of clarity, the General section applies to all users of our Website and provides a general outline of our data processing policy for those cases not included in the above mentioned specific sections.Finally, and before proceeding to the specific sections, we hereby inform you that all of them are subject to the following Security Policy. Moreover, all sections, with the exception of the AmiProbashi Platform that has its own specific content, are subject to the “Rights of the Data Subject” part below."
+    },
+    "security": {
+      "title": "Security",
+      "text1": "AmiProbashi Ltd. has adopted the necessary security measures to ensure compliance with article 32 of the GDPR. In this sense, AmiProbashi Ltd. has established all technical and organizational measures to ensure a level of security appropriate to the risk, taking into the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons.",
+      "text2": "In any event, AmiProbashi Ltd. commits to implement measures to:",
+      "list1": "Guarantee the confidentiality, integrity, availability and resilience of all systems and services.",
+      "list2": "Restore availability and access to personal data in a timely manner in the event of a physical or technical incident.",
+      "list3": "Verify, evaluate and assess the effectiveness of technical and organizational measures on a regular basis in order to guarantee thesecurity of processed data.",
+      "list4": "Pseudonymize and encrypt personal data where necessary."
+    },
+    "rightDataSubject": {
+      "title": "Rights of the Data Subject",
+      "text1": "We inform you that you have the right to request AmiProbashi Ltd. to confirm if it is processing your personal data. You have the right to access your personal data, the right to request the rectification of incorrect data, or to request us to erase unnecessary data at any time. You may also request the portability of your personal data and restrict its use. In said even your data will only be held for the purpose of exercising or defending claims. Under certain circumstances, or personal reasons, you may object to processing of your data. In said event, AmiProbashi Ltd. will refrain from processing your data unless for legitimate purposes, or for the purpose of exercising or defending any potential claims. Said rights may be exercised by sending a letter to AmiProbashi Ltd. at info@amiprobashi.com. Identificatiomay be required (national identity card, passport or equivalent) to prove your identity.AmiProbashi Ltd. reserves the right to modify the present Privacy Policy at any time, and, when required to do so by law, we will inform you of those changes. In the event substantial changes are made, we will notify you of the update in advance, via email or through our AmiProbashi platform",
+      "text2": "AmiProbashi Plaform",
+      "text3": "AmiProbashi Ltd.",
+      "text4": "Plot#68 (Old 45), Block H, Road 11,Banani, Dhaka 1213",
+      "text5": "Email: info@amiprobashi.com",
+      "text6": "AmiProbashi Ltd. is only responsible as per the processing of the contact information and invoicing data of its Clients. As per the Data, as this term is defined in the General Terms and Conditions of Contract and Use set forth by AmiProbashi Ltd. ( and for your convenience, detailed in sections b) to e) below, all included), AmiProbashi Ltd. is the Data Processor. As such, AmiProbashi Ltd.’ responsibility is limited to comply with mentioned General Terms and Conditions and, where appropriate, with any specific Data Processing Agreement entered into. By means of the acceptance of the present Privacy Policy, the Client and User accept and expressly consent to the collection, use, processing and, where appropriate, transfer of data to third parties, in accordance with the terms stated herein. For the avoidance of doubt, references to AmiProbashi Ltd. or AmiProbashi shall be understood to be made to any of the companies within the AmiProbashi’ group, in case the Services are directly contracted to one of them.",
+      "list1": "Categories of data that we process:",
+      "list2": "Client’ contact details and invoicing data, including postal and/or email addresses (Client data)",
+      "list3": "User contact details",
+      "list4": "Information based on the User's commercial activity in order to provide certain features included in the AmiProbashi platform, once activated:",
+      "list41": "Geographic location",
+      "list42": "Date, duration and speaker for telephone calls",
+      "list43": "Received and issued communications",
+      "list44": "Issued voice commands",
+      "list45": "Provided photographs",
+      "list46": "Other information relating to user commercial activity",
+      "list5": "Multimedia content sent to the platform",
+      "list6": " Third-party data and information, for which the Client is responsible,that is uploaded to the AmiProbashi platform by the Client or User.",
+      "text7": "The Client and, where appropriate, the User may unsubscribe for the features detailed in point c) above, through the personalized settings on the application or by contacting AmiProbashi Ltd. The Client may also activate new features by contacting AmiProbashi Ltd. to request a quote. The Client is responsible for informing their users of any changes."
+    },
+    "purposeOfDataProcessing": {
+      "title": "Purposes of Data Processing",
+      "text1": "The aforementioned data shall be processed by AmiProbashi Ltd for the following purposes:",
+      "list1": "Managing and maintaining existing Client relationships",
+      "list2": "The provision of services contracted by our Clients, including the management, administration, provision, extension and improvement of content, data and services offered by AmiProbashi Ltd and other members of our group.",
+      "list3": "Designing new services and/or content",
+      "list4": "Communicating service updates",
+      "list5": "For statistical purposes relating to our services"
+    },
+    "termOfProcessing": {
+      "title": "Term of processing",
+      "text1": "AmiProbashi Ltd. will store and keep the Data during the provision of our Services. Upon termination of Services, AmiProbashi Ltd. will store all Data for a period of thirty (30) days. Further to this period, we will block all necessary data so that it cannot be directly accessed but it can be made available to Public Administrations, Judges and Tribunals in the event of any subsequent claims, for the corresponding prescription period. Once the prescription period has terminated, all data will be deleted and/or destroyed. Notwithstanding the aforementioned, Tritium AmiProbashi Ltd. may store anonymous data relating to the use of services for the purpose of quality control and improvements.In the event consent has been given to receive Newsletters and commercial information, AmiProbashi Ltd. will store client and/or user contact details, as the case may be, unless consent is revoked by the Client or User.",
+      "other": {
+        "text1": "AmiProbashi will maintain a record of your personal data for a period of one (1) year further to receiving your application. This means that throughout this period we may use your data to contact you in the event a suitable position arises."
+      }
+    },
+    "legalBasis": {
+      "title": "Legal Basis",
+      "text1": "The AmiProbashi Ltd. solution/platform enables Clients to process the Data. For this reason, the legal basis for AmiProbashi Ltd. to act as Data Processor, is the need to render the Services according to our General Terms and Conditions of Use and Services (article 6.1 b) GDPR). Processing of Client and User contact details for commercial communications purposes is based on their express consent. Clients and Users may revoke their consent at any time by sending an email to info@amiprobashi.com. They may also unsubscribe from Newsletters and commercial communications at any time by following the instructions indicated in each message.",
+      "other": {
+        "title": "Legal Basis",
+        "text1": "The processing of your data is based on your explicit consent. You may review or deactivate your candidate profile, or revoke your consent for the processing of your personal data, at any time by sending an email to info@amiprobashi.com\nWe normally collect your data directly from you. However, in some cases, your data can be collected through third-parties. In such a case, we will inform you within a reasonable period of time, once your data is collected, but no later than one (1) month from that date. ",
+        "general": {
+          "title": "Legal Basis",
+          "text1": "In general, prior to the processing of personal data, AmiProbashi Ltd. must obtain express and unequivocal consent from the data subject by means of the consent clauses incorporated in the various data collection systems.\nNotwithstanding, in the event User consent is not collected, the legal basis for our processing of data will be a specific law or regulation authorizing or requiring access and processing of such data by us.\nYou are responsible for ensuring the veracity and lawfulness of all data included in the form. You may revoke your consent at any time by sending an email to info@amiprobashi.com. You may also unsubscribe for commercial communications at any time by following the instructions indicated in each message. "
+        }
+      }
+    },
+    "userIdentification": {
+      "title": "User Identification and Automatically Collected Data",
+      "text1": "AmiProbashi Ltd. may automatically collect certain data about Users when they access and use the AmiProbashi platform. Said information will not necessarily reveal the identity of the User but it may include user’s device information such as: hardware model, devise ID, operating system, web browser (such as Firefox, Safari or Internet Explorer), MAC address, IMEI and IP address. As an example, AmiProbashi Ltd. may collect and store in its logs, user browser data, language preference, geographical location (in a broad sense, i.e. country or city) and other technical data collected using Cookies, pixel tags and other technology that serves to identify your browser. For more information please refer to our Cookies Policy at AmiProbashi Policy ",
+      "text2": "In addition, when a Client and, where appropriate, a User submits a sign up form, we may collect data relating to geographic location, including continent, country, city, postcode and location.",
+      "text3": " The aforementioned data is collected and processed by AmiProbashi Ltd. for the following purposes:",
+      "list1": "To ensure our services are subjected to quality control measures and to avoid undesired errors or interruptions of the service.",
+      "list2": "Research and development - by gathering this data we are able to understand exactly how a User interacts with our services. This data also helps us to personalize, measure and improve our services as well as the content and design of our application, and it enables us to develop more services.",
+      "list3": "To improve the User experience whilst using the AmiProbashi application and corporate Website - we process this data so that we can provide a personalized service and implement requested preferences.",
+      "text4": "This data may be collected directly or by means of third-party providers subject to our instructions and the corresponding Data Processing Agreement. The legal basis for the processing of all the aforementioned data is your express consent (article 6.1 a) GDPR).\nAmiProbashi Ltd. will store this data for the duration of the aforementioned purposes unless you revoke your consent, as indicated in the “Rights” section below. ",
+      "other": {
+        "title": "User Identification and Automatically Collected Data",
+        "text1": "AmiProbashi Ltd. may automatically collect certain data about Users when they access the AmiProbashi corporate Website. Said information may not necessarily reveal the identity of the website user but it may include information about operating system version, web browser (such as Firefox, Safari or Internet Explorer) and geographical location, including, continent, country, city, postal code and specific location.",
+        "text2": " This data is collected and processed by AmiProbashi Ltd. for following purposes: ",
+        "list1": "To improve your experience as a user of our website and provide a personalized experience",
+        "list2": "To better understand how you use and interact with our website, so we can improve its design and content",
+        "list3": "To ensure an adequate quality control, to avoid undesired errors or interruptions.",
+        "text3": "This data may be collected directly or by means of third-party providers subject to our instructions and the corresponding Data Processing Agreement. Said third-party providers are located both in and outside of the EU, in countries with the adequate guarantees.\nThe legal basis for the processing of all data detailed in this section for the aforementioned purposes, is your express consent (article 6.1 a) GDPR). ",
+        "text4": "AmiProbashi Ltd. will store this data for the duration of the aforementioned purposes unless you revoke your consent, as indicated in the “Rights of the Data Subject” section included in the introduction of the present Privacy Policy.\n"
+      }
+    },
+    "whom": {
+      "title": "Whom we share your Data with?",
+      "text1": "Our client’s personal data and all data listed above, can be shared with and communicated to AmiProbashi Ltd., a company domiciled in Dhaka Plot#68 (Old 45), Block H, Road 11,Banani, Dhaka 1213, all of them companies of AmiProbashi’ group, to the extent necessary to fulfill purposes mentioned above. AmiProbashi Ltd. has entered into data processing agreements with those companies, which include standard data protection clauses.",
+      "text2": "In any case, AmiProbashi Ltd. takes any and all appropriate measures to maintain the security of your personal data, both throughout the transmission of said data and at destiny, and as a group of companies, it guarantees compliance of data protection regulation in force, including GDPR. Finally, our service providers may also process the aforementioned data and act as Data Processors under our specific instructions and in compliance with the corresponding Data Processing Agreement, so AmiProbashi Ltd. can render the Services according to approved General Terms and Conditions of Contract and Use. Said suppliers provide ancillary services that are required to ensure the proper provision of our services.",
+      "text3": "In the event any personal data processing needs to be subcontracted to a third party, AmiProbashi Ltd. shall communicate this in writing and at least one month in advance to our Clients, explaining what data is being subcontracted and who the subcontracting party is, including relevant contact details."
+    },
+    "rights": {
+      "title": "Rights",
+      "text1": "As regards to our client’s personal data, if any, and users’ personal data, both, clients and users have the right to request AmiProbashi Ltd to confirm if it is processing their personal data. You have the right to access your personal data, the right to request the rectification of incorrect data, or to request us to erase unnecessary data at any time. You may also request the portability of your personal data and restrict its use. In said even your data will only be held for the purpose of exercising or defending claims. Under certain circumstances, or personal reasons, you may object to processing of your data. In said event, AmiProbashi Ltd will refrain from processing your data unless for legitimate purposes, or for the purpose of exercising or defending any potential claims. Said rights may be exercised by sending an email to AmiProbashi Ltd at info@amiprobashi.com. Identification may be required (national identity card, passport or equivalent) to prove your identity. As regards to Third-Party Data, as defined in the General Terms and Conditions of Contract and Use, the Client, as the Data Controller, is responsible for managing all data subjects requests, especially when Third-Party Data includes special categories of personal data, with full indemnity for AmiProbashi Ltd.",
+      "list1": "COMMERCIAL INFORMATION - MARKETING",
+      "list2": "Data Controller",
+      "list3": "AmiProbashi Ltd (also “AmiProbashi”)",
+      "list4": "Plot#68 (Old 45), Block H, Road 11, Banani, Dhaka 1213",
+      "list5": "info@amiprobashi.com",
+      "email": "Email"
+    },
+    "proceedData": {
+      "title": "Processed data categories include:",
+      "list1": "Identifying data",
+      "list2": "Contact details",
+      "list3": "Postal and/or email addresses",
+      "list4": "No sensitive data is processed"
+    },
+    "purposeData": {
+      "title": "Purposes of data processing:",
+      "text1": "We hereby inform you that any and all data supplied to us will be processed and used by AmiProbashi Ltd. for the purposes of processing your information request and providing you with the requested technological, operational or commercial data and information on AmiProbashi products and services, and those of its group entities, including, as the case may be, information about our new products and services or any possible promotions. Once expressly accepted by you, by activating the corresponding box, your data will also be used to send you the AmiProbashi Newsletter with sales, technological and industry news and updates, as well as periodical marketing campaigns related to AmiProbashi products and services",
+      "other": {
+        "title": "Purposes of data processing:",
+        "text1": "The explicit purposes for which data is processed are detailed in the informative clauses (Basic Data Protection Information) included in each of the data collection channels (website forms, paper forms, conversations, notices or informative messages).\nNotwithstanding, personal data shall only be processed in order to provide an effective response to data subject requests, as specified in the form or data collection system used. If the data subject has expressly provided consent by activating the corresponding box, their data will also be used to send a) AmiProbashi Newsletters with sales, technological and industry news and updates, and b) periodical marketing campaigns related to AmiProbashi products and services."
+      }
+    },
+    "termProcessing": {
+      "title": "Term of processing",
+      "text1": "AmiProbashi Ltd. will keep your personal data after receipt of your request unless you file a request to the contrary. This means that your data can be used throughout this period for the aforementioned purposes.",
+      "other": {
+        "text1": "We hereby inform you that any and all data supplied to us will be processed and used by AmiProbashi Ltd., for the purposes of processing your job application, for the provision of AmiProbashi services to you as an applicant, and, if applicable, to determine if your profile is a match for any other job opening within the AmiProbashi Group, as detailed below."
+      }
+    },
+    "dataRecipients": {
+      "title": "Data Recipients",
+      "text1": "In any case, AmiProbashi Ltd. takes any and all appropriate measures to maintain the security of your personal data, both throughout the transmission of said data and at destiny, and, as a group of companies, it guarantees compliance of data protection regulation in force, including GDPR. Finally, our service providers may also process the aforementioned data and act as data processors under our specific instructions and in compliance with the corresponding Data Processing Agreement. Said suppliers provide ancillary services that are required to ensure the proper functioning of our services and the fulfillment of purposes stated above.",
+      "other": {
+        "title": "Data Recipients",
+        "text1": "Your data may be shared with and communicated to AmiProbashi Ltd. Ltd., a company domiciled in Dhaka Plot#68 (Old 45), Block H, Road 11,Banani, Dhaka 1213, to the extent necessary to fulfill purposes for which they have been collected. AmiProbashi Ltd. has entered into data processing agreements with those companies, which include standard data protection clauses. In any case, AmiProbashi Ltd. takes any and all appropriate measures to maintain the security of your personal data, both throughout the transmission of said data and at destiny, and as a group of companies, it guarantees compliance of data protection regulation in force, including GDPR. Finally, and as the case may be, our service providers may also process the aforementioned data and act as data processors under our specific instructions and in compliance with the corresponding Data Processing Agreement. Said suppliers provide ancillary services that are required to ensure the proper functioning of our services and the fulfilment of purposes stated above."
+      }
+    },
+    "generalDataProcessing": {
+      "title": "General Data Processing",
+      "text1": "In the event of a request by a data subject, only information deemed strictly necessary for identifying and addressing its request shall be collected. Said information will be treated faithfully and lawfully by AmiProbashi Ltd. Additionally, personal data may be collected for specific and legitimate purposes and will be processed according to such purposes. Data collected from each data subject will be appropriate, relevant and non-excessive in relation to the corresponding purposes for each case, and information will be updated whenever necessary. The data subject will be informed, prior to the collection of their data, of the general terms of the present Policy so that they can provide their express, precise and unequivocal consent for the processing of their data, in accordance with the following aspects. "
+    },
+    "personalData": {
+      "title": "Where does the personal data come from?",
+      "text1": "As a general rule, personal data is always collected directly from the interested party. However, under specific circumstances, data may be collected through third-parties. In said event, we will inform the interested party in a timely manner once data has been obtained and within one (1) month at the latest."
+    }
+  },
+  "blog": {
+    "title": "Probashi Blog",
+    "viewAll": "View all"
+  },
+  "jouney": {
+    "title": "Journey of Migrant Process"
+  },
+  "termsAndConditions": {
+    "title": "Terms & Conditions",
+    "subtitle": "Stay updated with Ami Probashi along with the latest on migration",
+    "termsOfService": "Terms of service",
+    "text1": "AmiProbashi (“AmiProbashi ,” “our,” “we,” or “us”) provides instant messaging and other services to users in AmiProbashi mobile application. Please read our Terms of Service so you understand what’s up with your use of AmiProbashi. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”). NO ACCESS TO EMERGENCY SERVICES: There are important differences between AmiProbashi IM and your mobile and fixed-line telephone and SMS services. Our Services do not provide access to emergency services or emergency services providers, including the police, fire departments, or hospitals, or otherwise connect to public safety answering points. You should ensure you can contact your relevant emergency services providers through a mobile, fixed-line telephone, or other service."
+  },
+  "bmet": {
+    "title": "BMET Clearance Terms & Conditions",
+    "text1": "I solely undertake that:",
+    "list1": "1. I have provided accurate and up-to-date information regarding my educational background, work experience, skills, training, finances and career goals to the career consultancy.",
+    "list2": "2. I acknowledge that the career consultancy service aims to provide guidance and support in my career development process, and does not guarantee any job offers or successful relocation abroad.",
+    "list3": "3. I agree to promptly submit valid documents requested by the career consultancy and to attend any scheduled video interviews with recruiting agencies in a timely and prepared manner.",
+    "list4": "4. I understand that any misrepresentation of information or failure to comply with the terms of this agreement may result in the termination of services by the career consultancy."
+  },
+  "ccs": {
+    "title": "Career Consultancy Service Terms and Conditions",
+    "text1": "I solely undertake that:",
+    "list1": "1. I have provided accurate and up-to-date information regarding my educational background, work experience, skills, training, finances and career goals to the career consultancy.",
+    "list2": "3. I agree to promptly submit valid documents requested by the career consultancy and to attend any scheduled video interviews with recruiting agencies in a timely and prepared manner.",
+    "list3": "4. I understand that any misrepresentation of information or failure to comply with the terms of this agreement may result in the termination of services by the career consultancy."
+  },
+  "helpdesk": {
+    "title": "BMET Help Desk & Contact Info",
+    "role1": "Present your passport number/application ID to the BMET officials at the BMET desk",
+    "role2": "The BMET Official will guide you with your application",
+    "contactInfo": "Contact Information",
+    "email": "Email",
+    "bmet": "BMET No"
+  },
+  "journey": {
+    "title": "Journey of Migrant Process"
+  },
+  "siteMap": {
+    "title": "Sitemap",
+    "subTitle": "Stay updated with Ami Probashi along with the latest on migration",
+    "home": "Home",
+    "services": {
+      "title": "Services",
+      "item1": "Government Services",
+      "item2": "BRAC Services",
+      "item3": "Job & Training",
+      "item4": "Career Consultancy",
+      "item5": "Life Style Service"
+    },
+    "recruit": {
+      "title": "Recruit from Bangladesh",
+      "item1": "Local Recruiting Agencies",
+      "item2": "Foreign Employers",
+      "item3": "Training Institute"
+    },
+    "stackholders": {
+      "title": "Government Stakeholders",
+      "item1": "MoEWOE and BMET",
+      "item2": "Technical Training Center (TTC)",
+      "item3": "Union Digital Centers",
+      "item4": "Airport Emigration",
+      "item5": "Demo Offices"
+    },
+    "portals": {
+      "title": "Portals",
+      "item1": "BMET",
+      "item2": "Technical Training Center (TTC)",
+      "item3": "DEMO Office",
+      "item4": "BIMT",
+      "item5": "Recruitment Portal",
+      "item6": "Foreign Employer",
+      "item7": "RA Account Request"
+    },
+    "download": {
+      "title": "Download Certificate & Cards",
+      "item1": "BMET Registration Card",
+      "item2": "BMET Smart Card",
+      "item3": "Verify BMET Smart Card",
+      "item4": "Clearance Application Tracking",
+      "item5": "PDO Certificate & Enrollment Card",
+      "item6": "All Training Certificate/ Enrollment Card"
+    },
+    "about": {
+      "title": "About us & Privacy Policy",
+      "item1": "About Us",
+      "item2": "Terms & Conditions",
+      "item3": "Privacy Policy",
+      "item4": "Refund Policy"
+    }
+  },
+  "keyImapacts": {
+    "title": "Key Impacts of Ami Probashi"
+  },
+  "trackAgainBtn": "Track Again",
+  "applyNow": {
+    "page": "Apply Now",
+    "title": "BMET Smart Clearance Card",
+    "subTitle": "BMET clearance is mandatory for working abroad. After the BMET clears you, you will receive a QR-code based BMET smart card. You will need a valid BMET smart card to pass through airport immigration.",
+    "card1": {
+      "title": "Are you a Recruiting Agency?",
+      "subTitle": "If you are a recruiting agency and have access in our web portal , then sign in and proceed to BMET clearance",
+      "linkText": "Still not using our portal yet? »"
+    },
+    "card2": {
+      "title": "Are you an Aspiring migrant?",
+      "subTitle": "Our app provides the one-stop BMET clearance application easy-to-do with your phone. Simply download our app and you’ll be able to apply for one-stop BMET clearance."
+    },
+    "signup": "Sign Up",
+    "login": "Log In"
+  },
+  "media": {
+    "title": "Media",
+    "blog": "Blog",
+    "article": "Article",
+    "videoGallery": "Video Gallery",
+    "photoGallery": "Photo Gallery"
+  }
+}

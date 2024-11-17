@@ -1,0 +1,28 @@
+.customer-arrow::after {
+  /* width: 0;
+  height: 0;
+  border-style: solid;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  border-bottom: 60px solid #555555;
+  border-top: 0;
+  transform: rotate(45deg); */
+  width: 40px !important;
+  height: 40px !important;
+  background-color: red !important;
+  position: absolute !important;
+  bottom: 0 !important;
+  top: 0 !important;
+  z-index: 100000000000000000000;
+}
+
+.customer-slider-web .swiper-slide {
+  min-width: 800px !important;
+}
+
+.customer-review::after {
+  content: url("/assets/images/customers/arrow.svg");
+  position: absolute;
+  top: 85%;
+  right: 25%;
+}

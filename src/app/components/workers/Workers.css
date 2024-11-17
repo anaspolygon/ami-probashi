@@ -1,0 +1,48 @@
+.worker h1,
+h2,
+h3 {
+  font-weight: 600;
+  font-family: var(--font-barlow);
+  font-size: 18px;
+  line-height: 21.43px;
+  color: #0f172a;
+  margin-bottom: 2px;
+}
+
+.worker p {
+  font-weight: 400;
+  font-family: var(--font-roboto);
+  font-size: 14px;
+  line-height: 20px;
+  color: #475569;
+  margin-bottom: 16px;
+}
+
+.worker p a {
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  font-size: 14px;
+  color: #187e7d;
+  text-decoration-line: underline;
+  text-underline-offset: 4px;
+}
+
+@media only screen and (min-width: 768px) {
+  .worker h1,
+  h2,
+  h3 {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 4px;
+  }
+
+  .worker p {
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 24px;
+  }
+
+  .worker p a {
+    font-size: 18px;
+  }
+}

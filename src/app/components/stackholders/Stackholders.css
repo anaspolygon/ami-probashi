@@ -1,0 +1,32 @@
+.bmet p {
+  margin-bottom: 32px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  font-family: var(--font-roboto);
+  color: #475569;
+}
+
+.bmet p a {
+  color: #187e7d;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration-line: underline;
+  text-underline-offset: 4px;
+  font-family: var(--font-roboto);
+  line-height: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+  .bmet p {
+    margin-bottom: 32px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+  }
+
+  .bmet p a {
+    font-size: 18px;
+    line-height: 32px;
+  }
+}

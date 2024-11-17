@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  web:
+    container_name: amiprobasi-web
+    image: amiprobasi-web
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    build:
+      dockerfile: docker/Dockerfile
+      context: ../
+    ports:
+      - "${WEB_EXPOSED_PORT:-3000}:3000"
+    volumes:
+      - ../.:/opt/app
+    environment:
+      VIRTUAL_HOST: ${WEB_VIRTUAL_HOST:-amiprobasi.local}
+    command: bash -c "ls -la && pwd && chmod +x bin/run_on_local.sh && ./bin/run_on_local.sh"
+    networks:
+      - amiprobasi-web-local-network
+
+networks:
+  amiprobasi-web-local-network:
+    driver: bridge

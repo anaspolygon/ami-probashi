@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ebdd8d9-d739-40a8-923e-6f79ef98bb26" name="Changes" comment="deploy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mQFpz0u6mfhLpCMwEOaaJG6pfO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/tanvirornobshishir/polygon/frontend/ami-probashi-web/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ebdd8d9-d739-40a8-923e-6f79ef98bb26" name="Changes" comment="fav fix" />
+      <created>1727001081981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727001081981</updated>
+      <workItem from="1727001083119" duration="1527000" />
+      <workItem from="1727009264530" duration="1265000" />
+      <workItem from="1727010537645" duration="361000" />
+      <workItem from="1727010925468" duration="4553000" />
+      <workItem from="1727073072206" duration="2794000" />
+      <workItem from="1727077511291" duration="1375000" />
+      <workItem from="1727096138124" duration="2418000" />
+      <workItem from="1727168816912" duration="1455000" />
+      <workItem from="1727181543570" duration="848000" />
+    </task>
+    <task id="LOCAL-00001" summary="app and play store">
+      <option name="closed" value="true" />
+      <created>1727010977901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727010977901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="app and play store">
+      <option name="closed" value="true" />
+      <created>1727010992529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727010992529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="app and play store">
+      <option name="closed" value="true" />
+      <created>1727012564950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727012564950</updated>
+    </task>
+    <task id="LOCAL-00004" summary="app and play store">
+      <option name="closed" value="true" />
+      <created>1727013702230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727013702230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="explore link fix">
+      <option name="closed" value="true" />
+      <created>1727071542935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727071542935</updated>
+    </task>
+    <task id="LOCAL-00006" summary="explore link fix">
+      <option name="closed" value="true" />
+      <created>1727071857255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727071857255</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mobile auto slide">
+      <option name="closed" value="true" />
+      <created>1727157007859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727157007859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="deploy">
+      <option name="closed" value="true" />
+      <created>1727159843724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727159843724</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deploy">
+      <option name="closed" value="true" />
+      <created>1727160586754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727160586754</updated>
+    </task>
+    <task id="LOCAL-00010" summary="deploy">
+      <option name="closed" value="true" />
+      <created>1727180352589</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727180352589</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="app and play store" />
+    <MESSAGE value="explore link fix" />
+    <MESSAGE value="mobile auto slide" />
+    <MESSAGE value="deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
+  </component>
+</project>

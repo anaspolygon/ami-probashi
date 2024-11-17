@@ -1,0 +1,39 @@
+.ami-probashi-arrow::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-color: #f1f8f4;
+  position: absolute;
+  top: -10px;
+  /* left: 100px; */
+  transform: rotate(45deg);
+  border-left: 1px;
+  border-top: 1px;
+  border-style: solid;
+  border-color: #187e7d;
+  border-top-left-radius: 6px;
+}
+
+.arrow0::before {
+  left: 100px;
+}
+
+.arrow1::before {
+  left: 32%;
+}
+
+.arrow2::before {
+  left: 58%;
+}
+
+.arrow3::before {
+  right: 18%;
+}
+
+@media only screen and (max-width: 600px) {
+  .ami-probashi-arrow::before {
+    /* background-color: #fff;
+    left: 60px; */
+    display: none;
+  }
+}

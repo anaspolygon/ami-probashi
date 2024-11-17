@@ -1,0 +1,298 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  overflow: auto; /* or scroll */
+}
+
+.roboto {
+  font-family: var(--font-roboto);
+}
+
+.barlow {
+  font-family: var(--font-barlow);
+}
+
+.inter {
+  font-family: var(--font-inter);
+}
+
+.rubik {
+  font-family: var(--font-rubik);
+}
+
+.linear-background {
+  background: linear-gradient(to bottom, #ffffff 132px, #cfe6db66 132px);
+}
+
+.svg-icon {
+  fill: #187e7d;
+  transition: fill 0.3s;
+}
+
+.social:hover {
+  .svg-icon {
+    fill: #ffffff;
+  }
+}
+
+.employee-bg {
+  background: linear-gradient(60deg, #7ac19f 18.01%, #187e7d 84.25%);
+}
+
+.ant-drawer-content-wrapper {
+  width: 325px !important;
+}
+
+.ant-drawer-body {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-bottom: 41px !important;
+}
+
+.probashi-app-slider .swiper-pagination-bullets .swiper-pagination-bullet {
+  background-color: #ffffff !important;
+}
+
+.probashi-app-slider .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 8px !important;
+  border-radius: 32px !important;
+}
+
+.recruit-slider .swiper-pagination-bullets .swiper-pagination-bullet {
+  background-color: #ffffff !important;
+}
+
+.recruit-slider .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 8px !important;
+  border-radius: 32px !important;
+}
+
+.newspaper-slider .swiper-wrapper {
+  padding-bottom: 40px !important;
+}
+
+.newspaper-slider .swiper-pagination {
+  bottom: 0 !important;
+}
+
+.newspaper-slider .swiper-pagination-bullet {
+  background-color: #7ac19f !important;
+}
+
+.newspaper-slider .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 8px !important;
+  border-radius: 32px !important;
+  background-color: #187e7d !important;
+}
+
+.transparent-scrollbar {
+  /* For modern browsers */
+  overflow: -moz-scrollbars-none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.transparent-scrollbar::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+@media only screen and (max-width: 600) {
+  .banner-bg {
+    background: linear-gradient(
+      29deg,
+      #7ac19f 22.57%,
+      #187e7d 81.87%
+    ) !important;
+  }
+}
+.banner-bg {
+  background: linear-gradient(60deg, #7ac19f 18.01%, #187e7d 84.25%) !important;
+}
+
+input[type="radio"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 24px;
+  height: 24px;
+  border: 3px solid #00796b; /* Outer circle color (teal) */
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+
+input[type="radio"]:checked::before {
+  content: "";
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: #00796b; /* Inner circle fill color (teal) */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.download-bg {
+  background: linear-gradient(to bottom, #cfe6db4d 317px, #fff 317px),
+    url("/assets/images/download/registration/registration_bg.svg");
+  background-repeat: no-repeat;
+  background-position: 10px 20%;
+}
+
+@media only screen and (min-width: 1200px) {
+  .downloadTab::before {
+    content: url("/assets/images/download/registration/registration_bg.svg");
+    position: absolute;
+    z-index: -10;
+    top: 12% !important;
+    left: -14% !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .download-bg {
+    background: linear-gradient(to bottom, #cfe6db4d 317px, #fff 317px);
+    background-repeat: no-repeat;
+    background-position: left top;
+  }
+}
+
+/* home page banner section */
+
+.banner-slider .swiper-pagination-bullet {
+  background-color: #ffffff !important;
+}
+
+.banner-slider .swiper-pagination {
+  display: flex !important;
+  justify-content: flex-start !important;
+  /* padding-left: 135px !important; */
+  padding-left: calc((100% - 1170px) / 2) !important;
+  bottom: 8% !important;
+}
+
+@media only screen and (max-width: 1400px) {
+  .banner-slider .swiper-pagination {
+    display: flex !important;
+    justify-content: flex-start !important;
+    padding-left: 135px !important;
+
+    bottom: 5% !important;
+    left: 35% !important;
+  }
+}
+
+.banner-slider .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 8px !important;
+  border-radius: 32px !important;
+  background-color: #ffffff !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .banner-slider .swiper-pagination-bullet {
+    background-color: #187e7d !important;
+  }
+
+  .banner-slider .swiper-pagination {
+    display: block !important;
+    padding-left: 0 !important;
+    bottom: 8px !important;
+  }
+
+  .banner-slider .swiper-pagination-bullet-active {
+    width: 40px !important;
+    height: 8px !important;
+    border-radius: 16px !important;
+    background-color: #187e7d !important;
+  }
+}
+
+/* @media only screen and (max-width: 1401px) {
+  .banner-slider .swiper-pagination {
+    display: flex !important;
+    justify-content: flex-start !important;
+    padding-left: 135px !important;
+    bottom: 8% !important;
+  }
+} */
+
+/* about page banner section */
+
+.about-banner-slider .swiper-pagination-bullet {
+  background-color: #187e7d !important;
+  opacity: 1;
+}
+
+.about-banner-slider .swiper-pagination {
+  display: flex !important;
+  justify-content: flex-end !important;
+  bottom: 24px !important;
+  padding-right: 135px !important;
+}
+
+.about-banner-slider .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 8px !important;
+  border-radius: 32px !important;
+  background-color: #ffffff !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .about-banner-slider .swiper-pagination {
+    display: flex !important;
+    justify-content: flex-end !important;
+    bottom: 12px !important;
+    padding-right: 20px !important;
+  }
+}
+
+.banner1 {
+  background: linear-gradient(29.3deg, #7ac19f 22.57%, #187e7d 81.87%);
+}
+
+.banner-slider-mobile .swiper-pagination-bullet {
+  background-color: #187e7d !important;
+}
+
+.banner-slider-mobile .swiper-pagination {
+  display: block !important;
+  padding-left: 0 !important;
+  bottom: 2% !important;
+}
+
+.banner-slider-mobile .swiper-pagination-bullet-active {
+  width: 40px !important;
+  height: 10px !important;
+  border-radius: 16px !important;
+  background-color: #187e7d !important;
+}
+
+.is-sticky {
+  position: fixed;
+  top: 0px;
+  z-index: 9999;
+  width: 100%;
+}
+
+@media only screen and (min-width: 1230px) {
+  .mobile-menu {
+    display: none;
+  }
+  .web-menu {
+    display: block;
+  }
+}
